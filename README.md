@@ -1,2 +1,2 @@
 # aibt
-Free games for Macs
+Free games for Macs are in the releases
